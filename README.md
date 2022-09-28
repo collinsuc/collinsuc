@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @collinsuc
 - 👀 I’m interested in ... Web Devt. packages such as HTML, CSS, React.js, Java, etc...
 - 🌱 I’m currently learning ... HTML
-- 💞️ I’m looking to collaborate on ...Building my firstAI-based website
+- 💞️ I’m looking to collaborate on ...Building my first AI-based website
 - 📫 How to reach me ...collins.ahuchaogu@gmail.com
 
 <!---
